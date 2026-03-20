@@ -18,7 +18,7 @@ Whenever I push an update via Obsidian or VS Code, a GitHub Action kicks in to s
 
 The folder layout follows a strict "Wiki Structure Spec" to ensure the website knows exactly where to put everything:
 
-* **`world_building/wiki/`**: The public-facing heart of the project. Categories like `characters/`, `magic/`, and `lore/` each have their own `_overview.md` and `_template.md`.
+* **`world-building/wiki/`**: The public-facing heart of the project. Categories like `characters/`, `magic/`, and `lore/` each have their own `_overview.md` and `_template.md`.
 * **`stories/`**: Structured for story planning, chapter planning, and the final chapters.
 * **`_dashboard.md`**: My author-facing command centre—using Dataview to track what’s a draft and what’s ready for the world to see.
 
