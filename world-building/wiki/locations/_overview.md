@@ -6,7 +6,7 @@ last_updated:
 
 # Locations
 
-The Locations section covers every place of significance in Essentia — from vast continents and sovereign nations to ruined landmarks and hidden planes. Each entry situates a place within the world's geography, politics, and history.
+Every place of significance in [World Name] — from vast continents and sovereign nations down to ruined landmarks and hidden planes. Each entry covers a place's geography, politics, and history — why it matters, what it's been through.
 
 ---
 

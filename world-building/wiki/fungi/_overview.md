@@ -6,7 +6,7 @@ last_updated:
 
 # Fungi
 
-The Fungi section catalogues the mushrooms, moulds, and fungal organisms of Essentia — from bioluminescent cave species to magical parasites and toxic varieties. Entries record habitat, properties, and use by the world's peoples.
+[World Name]'s mushrooms, moulds, and fungal organisms — from bioluminescent species that light up cave systems to magical parasites and varieties that have ended empires. Each entry covers habitat, properties, and how the world's peoples use them — medicine, alchemy, or things best left unspecified.
 
 ---
 

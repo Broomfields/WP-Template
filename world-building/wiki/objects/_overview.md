@@ -6,7 +6,7 @@ last_updated:
 
 # Objects
 
-The Objects section catalogues the significant weapons, relics, artefacts, texts, and items of power in Essentia. Each entry traces an object's origin, properties, ownership history, and its role in the world's events.
+The significant weapons, relics, artefacts, texts, and items of power in [World Name]. Each entry traces an object's origin, properties, and ownership history — and the role it's played in the world's events. Some of these things have moved through more hands and caused more chaos than most nations.
 
 ---
 

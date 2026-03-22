@@ -6,7 +6,7 @@ last_updated:
 
 # Characters
 
-The Characters section of the World of Essentia wiki gathers every named individual who appears in the story — from protagonists and point-of-view figures to minor supporting cast. Browse entries to learn about their origins, abilities, allegiances, and roles in the unfolding events of the world.
+Anyone in [World Name] with enough presence to warrant their own entry — protagonists, supporting cast, minor players who turned out to matter more than expected. Each entry covers origins, abilities, allegiances, and where they fit in events.
 
 ---
 

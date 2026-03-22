@@ -6,7 +6,7 @@ last_updated:
 
 # Language
 
-The Language section documents every tongue, dialect, cadence, and script in Essentia — from living languages spoken by thriving peoples to dead scripts preserved only in ancient texts. Entries explore linguistic structure, origin, and cultural significance.
+Every tongue, dialect, cadence, and script in [World Name] — from languages spoken by millions to dead scripts preserved only in crumbling texts that very few people can still read. Each entry covers linguistic structure, origin, and what each language says about the culture that speaks it.
 
 ---
 

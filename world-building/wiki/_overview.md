@@ -1,15 +1,15 @@
 ---
-title: "World of Essentia — Wiki"
+title: "Wiki"
 last_updated:
 ---
 
-# World of Essentia
+# [World Name]
 
-Welcome to the World of Essentia wiki — a companion resource to the story, built to let readers explore the world at their own pace.
+Welcome to the [World Name] wiki — a companion resource to the story, built so readers can explore at their own pace and in as much depth as they like.
 
-Essentia is a world shaped by ancient cosmological forces, layered histories, and peoples whose cultures, conflicts, and beliefs have accumulated across ages. This wiki is organised by category: browse characters, locations, events, magic systems, races, and more using the navigation below.
+[World Name] is [a world of ancient cosmological forces / industrial intrigue / or what-not — stick a couple of sentences here that give a reader the lay of the land. The sort of thing we'd tell a friend if they asked what we're writing].
 
-Entries are gated by story progress. If you haven't reached the chapter where something is first revealed, that entry won't appear yet — so you can explore freely without fear of spoilers.
+Entries are gated by story progress. If the reader hasn't reached the chapter where something is first revealed, that entry shouldn't show up yet (by whatever mechanism the consumer site for the wiki has), so the reader can explore freely without stumbling into spoilers.
 
 ## Categories
 
@@ -20,7 +20,7 @@ Entries are gated by story progress. If you haven't reached the chapter where so
 - [Cosmology](cosmology/_overview.md) — the metaphysical fabric of reality
 - [Magic](magic/_overview.md) — the systems and phenomena of power
 - [Technology](technology/_overview.md) — the inventions and infrastructure of civilisation
-- [Races](races/_overview.md) — the peoples and creatures of Essentia
+- [Races](races/_overview.md) — the peoples and creatures of [World Name]
 - [Flora](flora/_overview.md) — the plant life of the world
 - [Fauna](fauna/_overview.md) — the creatures of the world
 - [Fungi](fungi/_overview.md) — the fungal organisms of the world

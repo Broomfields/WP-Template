@@ -6,7 +6,7 @@ last_updated:
 
 # Fauna
 
-The Fauna section covers the creatures of Essentia — from common beasts and mounts to legendary spirit-beasts and mythological predators. Entries describe each creature's appearance, behaviour, habitat, and its significance to the world's peoples.
+The creatures of [World Name] — from common beasts and working mounts to legendary spirit-beasts and the kinds of things that feature in cautionary tales. Each entry covers appearance, behaviour, habitat, and what the world's peoples make of them — whether that's fear, reverence, or dinner.
 
 ---
 

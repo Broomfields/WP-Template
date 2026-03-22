@@ -6,7 +6,7 @@ last_updated:
 
 # Lore
 
-The Lore section gathers the myths, legends, prophecies, scriptures, folk tales, and in-world texts of Essentia. These entries preserve the stories that the world's peoples tell about themselves and their history — true, disputed, or entirely fabricated.
+The myths, legends, prophecies, scriptures, folk tales, and in-world texts of [World Name] — the stories the world's peoples tell about themselves, their history, and the things that frighten them. Some of these are true. Some are disputed. Some are entirely made up. Working out which is which is half the fun.
 
 ---
 

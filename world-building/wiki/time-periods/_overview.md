@@ -6,7 +6,9 @@ last_updated:
 
 # Time Periods
 
-The Time Periods section organises Essentia's history into eras, ages, wars, reigns, and story arcs. Each entry spans a defined stretch of in-world time and contextualises the events and changes that occurred within it. Note: arc and act containers are author-only and do not appear in the public wiki.
+[World Name]'s history broken into eras, ages, wars, and reigns — each a defined stretch of time with its own character, turning points, and consequences. The calendar and context for placing everything else.
+
+Note: arc and act containers are author-only and don't appear in the public wiki.
 
 ---
 

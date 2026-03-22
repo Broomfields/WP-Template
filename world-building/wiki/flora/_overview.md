@@ -6,7 +6,7 @@ last_updated:
 
 # Flora
 
-The Flora section documents the plant life of Essentia — from common herbs and towering trees to magical parasites and mythological specimens. Entries record habitat, properties, and how different peoples make use of each plant.
+The plant life of [World Name] — from common herbs and towering ancient trees to magical parasites and specimens that exist only in legend. Each entry covers habitat, properties, and how different peoples use each plant — medicine, trade, ritual, or stranger purposes.
 
 ---
 

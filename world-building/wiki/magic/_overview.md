@@ -6,7 +6,9 @@ last_updated:
 
 # Magic
 
-The Magic section catalogues every magical system, technique, attunement, and phenomenon in Essentia. Entries explain how each piece of magic works, where its power originates, and how it has evolved across the world's history.
+Every magical system, technique, attunement, and phenomenon in [World Name]. Each entry covers how a piece of magic works, where its power comes from, and what's happened to it over time — whether it evolved, got suppressed, or disappeared entirely.
+
+For the distinction between Magic and Cosmology — the metaphysical framework that explains *why* magic is even possible — see [Cosmology](_overview.md). A deity or a law of reality goes there; what people actually do with those laws goes here.
 
 ---
 

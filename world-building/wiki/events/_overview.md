@@ -6,7 +6,7 @@ last_updated:
 
 # Events
 
-The Events section documents every notable occurrence in Essentia's history — battles, discoveries, political upheavals, magical phenomena, and personal turning points. Entries are linked to the time periods, characters, and locations they shaped.
+The moments that changed things — battles, discoveries, political upheavals, magical phenomena, and the personal turning points that rippled outward. Each entry is linked to the time periods, characters, and locations it shaped, so I can follow the threads from any angle.
 
 ---
 

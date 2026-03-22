@@ -6,7 +6,7 @@ last_updated:
 
 # Culture
 
-The Culture section explores the traditions, festivals, arts, philosophies, religions, and social customs of Essentia's peoples. These entries reveal how different races and groups express themselves and understand the world.
+The traditions, festivals, arts, philosophies, religions, and social customs of [World Name]'s peoples — how different groups actually live and understand the world, beyond just their politics and geography.
 
 ---
 

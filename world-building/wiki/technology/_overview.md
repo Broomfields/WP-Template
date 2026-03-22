@@ -6,7 +6,7 @@ last_updated:
 
 # Technology
 
-The Technology section covers the inventions, tools, infrastructure, and scientific concepts that shape life and warfare in Essentia. Entries trace each technology's origins, uses, and its relationship with the world's magic systems.
+The inventions, tools, infrastructure, and scientific concepts that shape daily life and warfare in [World Name]. Each entry covers origins, uses, and how it sits alongside or conflicts with the world's magic systems.
 
 ---
 
