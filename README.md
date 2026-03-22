@@ -24,7 +24,7 @@ The folder layout follows a strict "Wiki Structure Spec" to ensure the website k
 
 ## ⚙️ Setup & Secrets
 
-To get the pipeline moving, you’ll need to set up a few bits in **GitHub Secrets**:
+To get the pipeline moving, we’ll need to set up a few bits in **GitHub Secrets**:
 * `CMS_REPO_TOKEN`: A Personal Access Token with write access to your website's CMS repo.
 * `CMS_REPO_URL`: The path to the repository where the public content is "sunk."
 
